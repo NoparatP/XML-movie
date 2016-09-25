@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test.xsl"?>
 
 <!DOCTYPE movies[
 
@@ -361,7 +362,7 @@
 
     <film>
         <title>Rango</title>
-        <year>20011</year>
+        <year>2011</year>
         <types>
             <type>Animation</type>
             <type>Adventure</type>
